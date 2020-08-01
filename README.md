@@ -15,18 +15,6 @@ about using "X".
 
 ------------------------------------------------------------------------------------------------------------------------------
 
---TECH USED --
-
--BCRYPTJS
--EXPRESS
--EXPRESS-SESSION
--MYSQL2
--PASSPORT
--PASSPORT-LOCAL
--SEQUELIZE
-
-------------------------------------------------------------------------------------------------------------------------------
-
 --GETTING STARTED--
 
 Please follow these steps in order to get your app started!
