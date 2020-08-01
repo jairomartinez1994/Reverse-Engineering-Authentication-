@@ -29,7 +29,7 @@ about using "X".
 
 --GETTING STARTED--
 
-to begin using this app, please clone this repository into your local storage. Once this is complete, please follow these steps;
+Please follow these steps in order to get your app started!
 
 1)create a mysql db called "passport_demo"
 2)go into the config file, open config.js and insert your personal data ie username, password etc
